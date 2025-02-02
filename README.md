@@ -9,7 +9,7 @@ Bu proje ile if, else if ve else yapıları kullanarak karar mekanizmalarını o
 ## 🌟 Proje 4: Döngüler (Loops)
 Bu projede for, while ve foreach döngüleri ile tanıştım. Döngülerle tekrarlayan işlemleri otomatikleştirme ve büyük veri gruplarını işleme becerisi kazandım. 
 ## 🌟 Proje 5: Yıldızlar ile Döngüler (Loops With Stars)
-Bu projede döngüleri daha iyi pekiştirmek pratik uygulamalar gerçekteştirdim.
+Bu projede döngüleri daha iyi pekiştirmek için pratik uygulamalar gerçekteştirdim.
 ## 🌟 Proje 6: Diziler (Arrays)
 Bu projede, diziler ile çalışmayı öğrendim. Birden fazla değeri bir dizi içinde nasıl depolayabileceğimi ve döngülerle bu değerleri nasıl işleyebileceğimi öğrendim.
 ## 🌟 Proje 7: Foreach Döngüsü ve Sınav Sistemi
