@@ -15,6 +15,6 @@ Bu projede, diziler ile çalışmayı öğrendim. Birden fazla değeri bir dizi 
 ## 🌟 Proje 7: Foreach Döngüsü ve Sınav Sistemi
 Bu projede, foreach döngüsünü daha yakından inceleyip bir sınav sistemi simülasyonu oluşturdum. Öğrencilerin sınav notlarını alarak ortalamalarını hesapladım ve geçme/kalma durumlarını belirledim. 
 ## 🌟 Proje 8: Metotlar (Methods)
-Kodlarımı daha düzenli ve tekrar kullanılabilir hale getirmek için metotlar oluşturmayı öğrendim. Parametre alarak işlem yapan ve sonuç döndüren metotlar yazmayı denedim. 
+Kodlarımı daha düzenli ve tekrar kullanılabilir hale getirmek için metotlar oluşturmayı öğrendim. Parametre alarak işlem yapan ve sonuç döndüren metotlar yazmayı denedim. Son projede, geri değer döndüren , geriye değer döndürmeyen metotlar ile çalıştım. Kullanıcıdan aldığım verileri işleyip sonuçları döndüren fonksiyonlar oluşturdum. Bu proje ile daha karmaşık işlemleri öğrenmiş oldum.
 ## 🌟 Proje 9: Veritabanı Tabanlı Ürün-Kategori Bilgi Sistemi
 Bu projede veritabanı bağlantısı kurmayı ve veritabanından veri çekmeyi öğrendim. Kullanıcıdan tablo seçimini alarak, ilgili bilgileri ekran üzerinde listeleyen bir uygulama geliştirdim. SqlConnection ve SqlCommand sınıflarıyla veritabanına bağlanıp, sorgular çalıştırmayı deneyimledim. Bu projeyle birlikte veritabanı işlemleri ve veri akışı hakkında önemli bilgiler edindim. 
