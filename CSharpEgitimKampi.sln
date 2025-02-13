@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_DatabaseProject", "09_Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_DatabaseCrud", "10_DatabaseCrud\10_DatabaseCrud.csproj", "{FCB66258-5358-4896-BAA5-45CCEABFA296}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimKampi301.EFProject", "CSharpEgitimKampi301.EFProject\CSharpEgitimKampi301.EFProject.csproj", "{07A28FC1-687F-497C-9640-5765F445E18D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{FCB66258-5358-4896-BAA5-45CCEABFA296}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCB66258-5358-4896-BAA5-45CCEABFA296}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCB66258-5358-4896-BAA5-45CCEABFA296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A28FC1-687F-497C-9640-5765F445E18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A28FC1-687F-497C-9640-5765F445E18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A28FC1-687F-497C-9640-5765F445E18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A28FC1-687F-497C-9640-5765F445E18D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
