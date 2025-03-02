@@ -20,3 +20,31 @@ Kodlarımı daha düzenli ve tekrar kullanılabilir hale getirmek için metotlar
 Bu projede veritabanı bağlantısı kurmayı ve veritabanından veri çekmeyi öğrendim. Kullanıcıdan tablo seçimini alarak, ilgili bilgileri ekran üzerinde listeleyen bir uygulama geliştirdim. SqlConnection ve SqlCommand sınıflarıyla veritabanına bağlanıp, sorgular çalıştırmayı deneyimledim. Bu projeyle birlikte veritabanı işlemleri ve veri akışı hakkında önemli bilgiler edindim. 
 ## 🌟 Proje 10: Menü Sipariş İşlem Paneli
 Bu projede, veritabanı ile etkileşim kurarak temel CRUD işlemlerini (Ekleme, Okuma, Güncelleme, Silme) gerçekleştirdim. SQL bağlantısı sayesinde ürün ve kategori bilgilerini kolayca ekleyip listeleyebildim, gerektiğinde güncelleyip silebildim. Bu süreçte SQL komutlarıyla veri kaydetme ve sorgulama konusunda daha fazla pratik yapabildim. Bu proje, SQL’i uygulamalı olarak deneyimlemem açısından oldukça fayda sağlamış oldu.
+## 🌟Proje 11: EfTravel İstatistik Paneli
+Bu projede, Entity Framework kullanarak bir seyahat veri tabanındaki bilgileri analiz eden ve görselleştiren dinamik bir istatistik paneli geliştirdim. Windows Forms tabanlı bu uygulama, kullanıcıya canlı istatistikler sunarak veri odaklı kararlar almayı kolaylaştırmayı amaçlıyor.
+
+Projede Yer Alan Özellikler:
+
+✔️ Genel İstatistikler: Toplam lokasyon sayısı, kapasite, rehber sayısı gibi temel bilgilerin hesaplanması.
+
+✔️ İstatistiksel Analiz: Ortalama kapasite, fiyat ve benzeri değerlerin hesaplanması ve gösterimi.
+
+✔️ Filtreleme İşlemleri: Belirli bir şehir veya ülkeye ait verilerin özel olarak sorgulanması.
+
+✔️ Maksimum Değer Tespiti: En yüksek kapasiteye veya en pahalı tura sahip şehirlerin belirlenmesi.
+
+✔️ Rehber Analizi: Belirli bir rehberin sorumlu olduğu tur sayısının hesaplanması.
+
+Bu Proje ile Kazandıklarım:
+
+📌 Entity Framework kullanarak veri tabanı ile etkileşimi daha iyi kavradım.
+
+📌 LINQ sorgularıyla veri filtreleme ve analiz süreçlerini etkin bir şekilde gerçekleştirdim.
+
+📌 Windows Forms üzerinden kullanıcı dostu bir arayüz tasarlayarak verileri görselleştirdim.
+
+📌 Gerçek zamanlı istatistikler ile uygulamaya işlevsellik kazandırdım.
+
+Bu proje, hem veri tabanı yönetimi hem de C# ile uygulama geliştirme konularında önemli bir deneyim kazanmamı sağladı.
+
+![İstatistik](https://github.com/user-attachments/assets/eefd489f-8b95-4365-a0f2-6a3e0854a517)
